@@ -32,5 +32,10 @@
 <a href="https://instagram.com/gaurabhchakraborty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gaurabhchakraborty" height="20" width="30" /></a>
 </br>
 
+### Watch my contribution graph get eaten by the snake 🐍
+
+<!-- platane/snk works, it just puts it on a new branch -->
+![mishmanners snake gif](https://github.com/gaurabhgeekyants/gaurabhgeekyants/blob/output/github-contribution-grid-snake.svg)
+
 <h4 align="left">You Can Support Me:</h4>
 <p><a href="https://www.buymeacoffee.com/gaurabhc"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="gaurabhc" /></a><a href="https://ko-fi.com/gaurabh"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="gaurabh" /></a></p><br><br>
